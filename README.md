@@ -1,4 +1,4 @@
-# K-means-clustering
+# Clustering Handwritten Digits into the different classes-K means
 
 Write java code to perform k-means clustering using MapReduce. The program must take 4 inputs in this order: k, n, full path to input directory, full path to output directory. k is the number of clusters and n is the dimensionality of the data points.
 When your program is run it should process all of the data files in the input directory which will contain one line per input point with each value delimited by a single space and terminated by a newline. There will be no blank lines in the input files. For example, if the input points are 4-dimensional, a file may look like this:
